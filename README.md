@@ -6,11 +6,11 @@
     ----------------------------------------------------------------- 
 
 
-Hi there! Here you can see my second exercise posted!
+Hi there! Here you can see my first exercise posted!
 
-Is a copy of Instagram but more simple
+Is a simple post card
 
-1) Open the Instagram.html file
+1) Open the PostCard.html file
 
 2) Click on the Preview button to open a live preview pane
 
